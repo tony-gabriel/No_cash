@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">No cash</string>
+    <string name="turn_on_flashlight">turn on flashlight</string>
+    <string name="turn_off_flashlight">turn off flashlight</string>
+</resources>
